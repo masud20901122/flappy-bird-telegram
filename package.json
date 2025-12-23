@@ -1,0 +1,23 @@
+{
+  "name": "flappy-bird-telegram",
+  "version": "1.0.0",
+  "description": "Flappy Bird game for Telegram Mini Apps",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "telegram",
+    "game",
+    "flappy-bird",
+    "mini-app"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

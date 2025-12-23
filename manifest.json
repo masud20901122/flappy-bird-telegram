@@ -1,0 +1,21 @@
+{
+  "name": "Flappy Bird Telegram",
+  "short_name": "Flappy Bird",
+  "description": "A fun Flappy Bird game for Telegram",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "assets/images/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
